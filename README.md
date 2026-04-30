@@ -1,6 +1,7 @@
-#Trata-se de uma atividade antiga, feita em 2025, quando estava na segunda série do Ensino Médio.
-##A atividade era de criar uma calculadora e com o desafio extra de integrar uma GUI.
----
-###Requesitos:
-  -Python 3
-  -Tkinter(GUI)
+<h1>Trata-se de uma atividade antiga, feita em 2025</h1>
+
+A atividade era de criar uma calculadora e com o desafio extra de integrar uma GUI.
+
+**Requesitos:**  
+-Python 3  
+-Tkinter(GUI)
